@@ -20,9 +20,8 @@ Deployed a static website on AWS S3 with CloudFront CDN integration for faster c
 - Git & GitHub
 
 ### Live URLs
-- **S3 Website Endpoint**: [Add your S3 URL here after deployment]
-- **CloudFront CDN**: [Add your CloudFront URL here after deployment]
-
+- **S3 Website Endpoint**: http://icp-m37fao-2026-static-site.s3-website.eu-north-1.amazonaws.com/
+- **CloudFront CDN**: https://dtq6j5w3a49fq.cloudfront.net/ 
 ### Project Structure
 ```
 ICP-M37FAO-2026-REPO/
