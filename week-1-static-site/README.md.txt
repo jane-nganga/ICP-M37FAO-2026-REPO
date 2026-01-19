@@ -1,0 +1,1 @@
+http://icp-m37fao-2026-static-site.s3-website.eu-north-1.amazonaws.com/
